@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialRead CsharpWPF", "Ser
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RandumNumberGen", "RandumNumberGen\RandumNumberGen.vcxproj", "{C5F80730-F44F-4478-BDAE-6634EFC2CA88}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SerialRead", "SerialRead\SerialRead.pyproj", "{22FFB428-95DC-48C6-9ABB-A51D3435E3B0}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SerialRead", "SerialReadPython\SerialRead.pyproj", "{22FFB428-95DC-48C6-9ABB-A51D3435E3B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
