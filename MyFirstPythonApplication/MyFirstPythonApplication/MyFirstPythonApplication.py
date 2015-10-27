@@ -5,11 +5,11 @@ svarOK = True
 while svarOK:
     bra = input("Hei " + name+". Har du det bra?")
     if bra=="ja":
-        print("Det er bra, jeg ogs�")
+        print("Det er bra, jeg ogsaa")
         svarOK = False
     elif bra =="nei":
         print("Det var synd")
         svarOK =False
     else:
-        print("Pr�ve en gang til (ja eller nei)")
+        print("Prov en gang til (ja eller nei)")
 
